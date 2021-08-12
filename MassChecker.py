@@ -5,7 +5,7 @@ import webbrowser
 from colorama import Fore, Style, init
 init()
 
-webbrowser.open('https://github.com/sexw')
+webbrowser.open('https://github.com/wsex')
 
 names = open('names.txt', 'r').read().split('\n')
 valid = open('valid.txt', 'a')
